@@ -45,5 +45,22 @@ Caso seja feita uma **reserva igual ou maior que 10 dias,** deverá ser concedid
 
 
 
+## O repositório é composto pelos seguintes arquivos:
+
+DesafioProjetoHospedagem.csproj:
+
+Pessoa.cs:
+
+Program.cs:
+
+**Readme.md:** Descrição geral do desafio 
+
+**Reserva.cs:** Aqui o codigo sofreu um acerto para funcionar corretamente.
+
+Suite.cs: 
+
+diagrama_classe_hotel.md: 
+
+
 
  
